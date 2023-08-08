@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%#x' $decimal
+hex=$(printf '%#x' $decimal)
